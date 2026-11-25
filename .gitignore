@@ -1,0 +1,11 @@
+# 인증키 (절대 올리지 않음)
+src/key.properties
+*.properties
+.env
+
+# 가상환경 / 캐시
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
